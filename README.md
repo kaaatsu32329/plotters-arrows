@@ -1,2 +1,3 @@
 # plotters-arrows
-Simple arrow shapes for plotters crate
+
+Provides simple arrow shapes for `plotters` crate.

@@ -1,0 +1,14 @@
+[package]
+name = "plotters-arrows"
+version = "0.1.0"
+edition = "2021"
+
+description = "Arrow shapes for plotters crate"
+categories = ["visualization"]
+repository = "https://github.com/tdhjm/plotters-arrows"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+plotters = "0.3"
+plotters-backend = "0.3"
